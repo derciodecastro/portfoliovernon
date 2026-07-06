@@ -1,0 +1,84 @@
+{
+  "galeria_pagina_inicial": [
+    "13d5ea55dc2eb7a4d6fbcf79d2bf2a39.jpg",
+    "45f2e838ec7a75b9735652d23b9ea5ff.jpg",
+    "80e72609e1bf5c6ab3f2e59ebaf97888.jpg",
+    "ab474241110b989604dee38e6e537cc2.jpg",
+    "d4ae455ed73badf0a1998048d6477bda.jpg",
+    "e31fe436c55031f6295c5970e38f4b2c.jpg"
+  ],
+  "Galeria_Foto/pessoas": [
+    "44df8a8008521b73d41ea3414e9f32b5.jpg",
+    "5299d3a179231855a17467619e18ae02.jpg",
+    "581fc6c0afff5d4c044bd8c5d60f538c.jpg",
+    "8f23447418ff5e3e048ad43742eaf93a.jpg",
+    "ChatGPT Image 26_06_2026, 16_35_33.png",
+    "Cópia de POSTS' The Creative Hub 2026.jpg",
+    "HF5A6195.JPG",
+    "HF5A6221.JPG",
+    "HF5A6240.JPG",
+    "HF5A6285.JPG",
+    "HF5A6288.JPG",
+    "HF5A6309.JPG",
+    "HF5A6324.JPG",
+    "IMG_4504.jpg",
+    "WhatsApp Image 2026-07-06 at 17.28.05.jpeg"
+  ],
+  "Galeria_Foto/estilo": [
+    "03cf36b4c1f3cbbf954ed8ddc7fe2579.jpg",
+    "70aab2f802fc51034c1ab47a029c0e24.jpg",
+    "7dc27f03f146a28899d50f0a464426fe.jpg",
+    "HF5A6465.JPG",
+    "HF5A6476.JPG",
+    "c7c8f966ba6f8f9d7a0b5c0bb5e224ac.jpg"
+  ],
+  "Galeria_Foto/marcas": [
+    "3d679577a12b435eacc4eff0d0583c0f.jpg",
+    "84788e9736dda226e05388b15c0e7e2b.jpg",
+    "e173cd58129b04c8c394141dd79a9d97.jpg",
+    "f70d9da7ac703a9ebb07e936837880ec.jpg"
+  ],
+  "Galeria_Exibicoes/as-camadas-da-alma": [
+    "63af3937f70d68b02fa54fb40e6adda8.jpg",
+    "945ee13f3804c9a0f7e348a0b5a14cc2.jpg",
+    "ab258bbc3d827a4f978942233454f3f6.jpg"
+  ],
+  "Galeria_Exibicoes/os-mangais-de-angola": [
+    "31ec9faf8c72a09be8878ffff00a06c6.jpg",
+    "36e4fa1c06d7b955d94a5a4cc92b78f6.jpg",
+    "47b9a311c4dc1e67245ec49d896abce2.jpg",
+    "ab7e0bec7d3c48ebda4a6a799a7d9c5d.jpg"
+  ],
+  "__stories": [
+    {
+      "id": "História 1",
+      "title": "História 1",
+      "cover": "/Galeria_Foto/historias/Hist%C3%B3ria%201/Capa/Capture%20One%20Catalog0085.jpg",
+      "images": [
+        "/Galeria_Foto/historias/Hist%C3%B3ria%201/63af3937f70d68b02fa54fb40e6adda8.jpg",
+        "/Galeria_Foto/historias/Hist%C3%B3ria%201/945ee13f3804c9a0f7e348a0b5a14cc2.jpg",
+        "/Galeria_Foto/historias/Hist%C3%B3ria%201/ab258bbc3d827a4f978942233454f3f6.jpg"
+      ]
+    },
+    {
+      "id": "História 2",
+      "title": "História 2",
+      "cover": "/Galeria_Foto/historias/Hist%C3%B3ria%202/Capa/31ec9faf8c72a09be8878ffff00a06c6.jpg",
+      "images": [
+        "/Galeria_Foto/historias/Hist%C3%B3ria%202/36e4fa1c06d7b955d94a5a4cc92b78f6.jpg",
+        "/Galeria_Foto/historias/Hist%C3%B3ria%202/47b9a311c4dc1e67245ec49d896abce2.jpg",
+        "/Galeria_Foto/historias/Hist%C3%B3ria%202/ab7e0bec7d3c48ebda4a6a799a7d9c5d.jpg"
+      ]
+    },
+    {
+      "id": "História 3",
+      "title": "História 3",
+      "cover": "/Galeria_Foto/historias/Hist%C3%B3ria%203/Capa/33c82cb0bafa35fa6bbafa9db65f58e9.jpg",
+      "images": [
+        "/Galeria_Foto/historias/Hist%C3%B3ria%203/27ed28b938633476af9de0a191277f33.jpg",
+        "/Galeria_Foto/historias/Hist%C3%B3ria%203/29fa3c07d9b485aa7b5a29082cf86068.jpg",
+        "/Galeria_Foto/historias/Hist%C3%B3ria%203/66d2b265c09df981d7a4aa4bef417663.jpg"
+      ]
+    }
+  ]
+}
